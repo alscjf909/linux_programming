@@ -1,0 +1,1 @@
+cmd_/home/mincheol/software/linux_programming/linux_driver/Module.symvers := sed 's/ko$$/o/' /home/mincheol/software/linux_programming/linux_driver/modules.order | scripts/mod/modpost  -a   -o /home/mincheol/software/linux_programming/linux_driver/Module.symvers -e -i Module.symvers   -T -

@@ -1,0 +1,1 @@
+cmd_/home/mincheol/software/linux_programming/linux_driver/modules.order := {   echo /home/mincheol/software/linux_programming/linux_driver/chr_dev.ko; :; } | awk '!x[$$0]++' - > /home/mincheol/software/linux_programming/linux_driver/modules.order

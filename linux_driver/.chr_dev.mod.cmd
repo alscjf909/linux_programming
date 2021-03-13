@@ -1,0 +1,1 @@
+cmd_/home/mincheol/software/linux_programming/linux_driver/chr_dev.mod := { echo  /home/mincheol/software/linux_programming/linux_driver/chr_dev.o;  echo; } > /home/mincheol/software/linux_programming/linux_driver/chr_dev.mod
